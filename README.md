@@ -146,4 +146,4 @@ they haven’t taken the time to find out what makes their customers’
 problems unique. You know what that does? It either scares customers or
 pisses them off. Yeah, it makes them more emotional.
 
-TODO (insert link here) 10 threats that cause people to resist change
+[10 threats that cause people to resist change](10%20threats%20that%20cause%20people%20to%20resist%20change/README.md)
