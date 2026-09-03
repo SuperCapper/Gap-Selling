@@ -103,7 +103,9 @@ Humans suffer from longevity bias, the phenomenon in which we ascribe more posit
 toward things that have been around for a while than toward things that are new.
 
 “Because longevity promotes favorability, it may confer
-legitimacy.” The studies suggest that whether we’re talking about
+legitimacy.” 
+
+Studies suggest that whether we’re talking about
 aesthetics, food, or tech, people are naturally inclined to subconsciously like
 and trust what they know and what is established and familiar. This means
 that even when people say they want change, deep down they often fear it.
@@ -114,3 +116,34 @@ someone who actually initiated contact with you, imagine the shit show
 going on inside the head of a prospect you have called who isn’t even sure
 he wants to be talking to you at all.
 
+## Truth #5: Sales are Emotional
+
+Every sale is about change.
+ - Change is emotional.
+ - Therefore, every sale is emotional.
+ - And emotions are complicated.
+ - That, in a nutshell, explains why selling is so hard and why so many people are bad at it.
+
+A new service could spark a fiery determination
+to prove one’s ability to compete and make more money, or it could inspire
+a crisis of insecurity. Some people are sentimental and reluctant to let go of
+the familiar; others are pragmatic and shrug off the old with ease. And
+sometimes people are just confused or conflicted. People frequently
+approach a sales transaction feeling fear, anxiety, or relief, but even genuine
+excitement can be accompanied by apprehension. Will your product live up
+to their expectations? Will they have regrets later? What if this service
+causes a whole new set of problems?
+
+When you’re asking your prospect to buy your product or service, how
+much change are you asking them to endure? Is it a lot or a little? Is it easily
+digestible or kinda hard to stomach? Have you done everything you can to
+make the change more palatable, less risky, and easier to embrace?
+
+In my experience, salespeople don’t concern themselves too
+much with their customers’ emotional state. They’re entirely focused on
+their product. Or they’re entirely focused on selling solutions, even though
+they haven’t taken the time to find out what makes their customers’
+problems unique. You know what that does? It either scares customers or
+pisses them off. Yeah, it makes them more emotional.
+
+TODO (insert link here) 10 threats that cause people to resist change
