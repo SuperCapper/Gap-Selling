@@ -182,3 +182,15 @@ questions like these:
 - Will this move make me vulnerable?
 - What will be the consequences if I don’t?
 - Is this change worth the risk?
+
+Working through these questions can be a torturous process of weighing
+pros and cons, all of which are likely to be deeply affected by two
+influences we’ve already discussed: longevity bias and threats that trigger
+resistance to change. This can be true even when a customer expresses
+intense dissatisfaction with his current state.
+
+The only time we are compelled to let go of the old, stick out our necks,
+and embrace change is when we can envision an improved future state over
+our current state, and when we believe that the benefits of that future state
+outweigh the cost of getting there, the effort it will require or the possible
+pain we will suffer.
