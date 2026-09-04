@@ -170,3 +170,15 @@ defenses down and share their problems, then getting them to a point where
 they feel secure and confident enough to admit they’re ready for change—
 either to something better, or to get away from something painful. They
 have to come to believe the change will be worth it.
+
+Your buyer’s or prospect’s subconscious threat-o-meter will be asking
+questions like these:
+
+- Is this going to take a lot of research?
+- Am I willing to take the time to learn what I need to know to make this
+  decision?
+- Do I want to make the effort?
+- Will this switch be worth the expense?
+- Will this move make me vulnerable?
+- What will be the consequences if I don’t?
+- Is this change worth the risk?
