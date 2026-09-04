@@ -194,3 +194,11 @@ and embrace change is when we can envision an improved future state over
 our current state, and when we believe that the benefits of that future state
 outweigh the cost of getting there, the effort it will require or the possible
 pain we will suffer.
+
+## Truth #7: Asking “Why” Gets Customers to “Yes”
+
+Every time you ask “Why?” you chip away at the surface layers of your
+customer’s psyche to get to their intrinsic motivations, the whole reason
+why they ever gave you a chance to talk to them in the first place. If you
+don’t know what will motivate your buyers to change, you’ll rarely get
+them to accept that the change you offer has enough value.
