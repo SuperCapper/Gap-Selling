@@ -147,3 +147,26 @@ problems unique. You know what that does? It either scares customers or
 pisses them off. Yeah, it makes them more emotional.
 
 [10 threats that cause people to resist change](10%20threats%20that%20cause%20people%20to%20resist%20change/README.md)
+
+## Truth #6: Customers Do Like Change When they Feel It’s Worth the Cost
+
+People Don’t Like Change right up until the moment they think whatever
+discomfort they might experience, such as a higher price or the time spent
+struggling to learn a new system, will be worth the outcome.
+
+People are led by their emotions. The only way humans willingly move
+toward change is when any negative emotions they may be experiencing
+about that change, um, change. For the better, of course. Humans feel
+positive emotions when they believe they are in control of their
+surroundings.
+
+When salespeople pitch customers and try to convince them
+to buy, they’re imposing change, taking the control out of the customer’s
+hands, and putting them on the defensive. That’s a great way to sabotage a
+sale.
+
+Closing a sale is about helping customers feel safe enough to lay their
+defenses down and share their problems, then getting them to a point where
+they feel secure and confident enough to admit they’re ready for change—
+either to something better, or to get away from something painful. They
+have to come to believe the change will be worth it.
